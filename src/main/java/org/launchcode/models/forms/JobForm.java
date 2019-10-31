@@ -1,5 +1,6 @@
 package org.launchcode.models.forms;
 
+
 import org.launchcode.models.CoreCompetency;
 import org.launchcode.models.Employer;
 import org.launchcode.models.Location;
@@ -8,6 +9,7 @@ import org.launchcode.models.data.JobData;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
+
 import java.util.ArrayList;
 
 /**
